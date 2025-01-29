@@ -2,7 +2,7 @@
 - 👀 I’m interested in human capital development through disruptive technologies and sustainability
 - 🌱 I’m currently coding Solidity, ether.js. Passionate about lowering transaction costs for financial inclusion
 - 💞️ I’m looking to collaborate on buidling cool disruptive projects that will uplift the living of people in the global south overall
-- 📫 You can reach me easily on Telegram @MChuche0x, X @machuche1
+- 📫 You can reach me easily on Telegram @Chuche0x, X @machuche1
 
 <!---
 Machuche1/Machuche1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
