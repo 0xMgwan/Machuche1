@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm 0xMgwan!
 
-## 👨‍💻 Web3 | Smart Contracts | DeFi | AI | Blockchain Infra
+## 👨🏾‍💻 Web3 | Smart Contracts | DeFi | AI | ReFi
 
 🔹 Decentralized solutions for Marginalized communities NEDA Labs. Dedicated Regen  
 🔹 Building **Decentralized Payments, AI + Blockchain, and Onchain Finance**  
