@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @0xMgwan
-- 👀 I’m interested in human capital development through disruptive technologies and sustainability
-- 🌱 I’m currently coding Solidity, ether.js. Passionate about lowering transaction costs for financial inclusion
-- 💞️ I’m looking to collaborate on buidling cool disruptive projects that will uplift the living of people in the global south overall
-- 📫 You can reach me easily on Telegram @Chuche0x, X @machuche1
+# 🚀 Hi, I'm 0xMgwan!
 
-<!---
-Machuche1/Machuche1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 Web3 | Smart Contracts | DeFi | AI | Blockchain Infra
+
+🔹 Decentralized solutions for Marginalized communities NEDA Labs. Dedicated Regen  
+🔹 Building **Decentralized Payments, AI + Blockchain, and Onchain Finance**  
+🔹 Passionate about **DeFi, ReFi, ZK Tech, & AI Agents**  
+🔹 Solidity | Hardhat | Foundry | Next.js | Web3.js  
+
+---
+
+## 🔥 My Featured Projects
+
+- 🏦 **WashikaDAO** → Onchain DAO toolkit for savings groups, VICOBAs & SACCOs  
+- 💰 **NEDA Pay** → Abstracted Mobile-first onchain payments  
+- 🎰 Experimenting **Onchain Betting & Predictions markets** → stablecoin sports betting and predictions.  
+
+---
+
+## 🛠️ Tech Stack  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-%23363636.svg?style=flat&logo=hardhat&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23363636.svg?style=flat&logo=foundry&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23363636.svg?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23363636.svg?style=flat&logo=typescript&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-%23363636.svg?style=flat&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-%23363636.svg?style=flat&logo=polygon&logoColor=white)
+
+---
+
+## 🔗 Connect with Me  
+[![Twitter](https://img.shields.io/badge/X-000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/machuche1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](david-machuche-1a9954b7/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Chuche0x)
