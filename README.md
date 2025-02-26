@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm 0xMgwan!
+# 🐉 Hey, I'm 0xMgwan!
 
 ## 👨🏾‍💻 Web3 | Smart Contracts | DeFi | AI | ReFi
 
@@ -32,3 +32,6 @@
 [![Twitter](https://img.shields.io/badge/X-000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/machuche1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](david-machuche-1a9954b7/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Chuche0x)
+
+---
+🚀 *Let's build the future of Web3 together!*
