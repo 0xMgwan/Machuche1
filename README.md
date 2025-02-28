@@ -12,8 +12,8 @@
 ## 🔥 My Featured Projects
 
 - 🏦 **WashikaDAO** → Onchain DAO toolkit for savings groups, VICOBAs & SACCOs  
-- 💰 **NEDA Pay** → Abstracted Mobile-first onchain payments  
-- 🎰 Experimenting **Onchain Betting & Predictions markets** → stablecoin sports betting and predictions.  
+- 💰 **BetUA** → Decentralized betting and predictions protcocol for p2p markets.  
+- 🎰 Experimenting **Onchain Betting & Predictions markets** → local stablecoins sports betting and predictions with AI agents.  
 
 ---
 
