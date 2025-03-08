@@ -6,6 +6,7 @@
 🔹 Building **Decentralized Payments, AI + Blockchain, and Onchain Finance**  
 🔹 Passionate about **DeFi, ReFi, ZK Tech, & AI Agents**  
 🔹 Solidity | Hardhat | Foundry | Next.js | Web3.js  
+🔹 Experimenting Rust & Security
 
 ---
 
