@@ -1,4 +1,4 @@
-# 🐉 Hey, I'm 0xMgwan!
+# 🐉 Hey, I'm 0xMgwan! I checkout code sometimes 
 
 ## 👨🏾‍💻 Web3 | Smart Contracts | DeFi | AI | ReFi
 
